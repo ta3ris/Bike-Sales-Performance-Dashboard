@@ -37,4 +37,4 @@ The analysis is built upon a Star Schema data model using a single Excel workboo
 4.  *(Optional)* If asked for data sources, point them to the `Data` folder included in this repo.
 
 ---
-*Created by [abood / ta3ris]*
+*Created by [abood / aboodsirt]*
