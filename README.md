@@ -18,10 +18,10 @@ The goal is to provide actionable insights into profitability, customer satisfac
 * **Demographics:** Insights into customer age groups and gender distribution.
 
 ## Data Sources & Structure
-The analysis is built upon a Star Schema data model using the following sources:
-1.  **`bikes_sales_details_from_kaggle.csv`**: Transactional data (Date, Customer Demographics, Product, Financials).
-2.  **`targets_and_manager.csv`**: Strategic data linking managers to regions and sales targets.
-3.  **`custmer_feedback.csv`**: Qualitative data containing User IDs, Countries, and Sentiment Scores.
+The analysis is built upon a Star Schema data model using a single Excel workbook (**`bikes sales.xlsx`**) containing the following sheets:
+1.  **Sales Details**: Transactional data (Date, Customer Demographics, Product, Financials).
+2.  **Targets**: Strategic data linking managers to regions and sales targets.
+3.  **Customer Feedback**: Qualitative data containing User IDs, Countries, and Sentiment Scores.
 
 ## Tools & Technologies
 * **Power BI Desktop:** For data modeling, DAX calculations, and visualization.
