@@ -6,11 +6,10 @@ This project is a comprehensive **Power BI Dashboard** designed to analyze bike 
 The goal is to provide actionable insights into profitability, customer satisfaction, and regional performance.
 
 ## Dashboard Preview
+ <img width="100%"  alt="Screenshot (36)" src="https://github.com/user-attachments/assets/7d83b323-3d84-4083-8a00-d7b4dd4dc567" />
+<img width="100%"  alt="Screenshot (37)" src="https://github.com/user-attachments/assets/d1467164-d44b-4d6b-b703-913be19aeed6" />
+<img width="100%" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/ab4747d7-656f-48a7-b9ae-9ad763b471e0" />
 
-<img width="100%" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/93667acf-e3d7-4a5a-af09-d05cb2f72c52" />
-<img width="100%" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/a0295029-1670-4591-9846-e6eff5b87101" />
-<img width="100%" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/8e26590b-99a4-44b5-a2b0-7251897a9f91" />
- 
 
 ## Key Features
 * **Sales Performance:** Detailed breakdown of Profit, Revenue, and Cost by Country, Age Group, and Product Category.
